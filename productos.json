@@ -1,0 +1,102 @@
+
+
+
+[
+    {"name":"REMERA NIÑO/A BLANCA",
+     "subtitle":"",
+     "info":"",
+     "id": 1,
+     "price": 1000,
+     "img":"./ASSETS/remeraBlancaNino.jpg",
+     "page": ""
+      },
+     
+
+    
+    {"name": "REMERA MUJER BLANCA",
+    "subtitle": "",
+    "info":"",      
+    "id": 2,
+    "price": 1200,
+    "img":"./ASSETS/remeraBlancaMujer.jpg",
+    "page": ""
+    },
+
+     
+
+    {"name": "REMERA HOMBRE BLANCA",
+    "subtitle":"",
+    "info":"",
+    "id": 3,
+    "price": 1400,
+    "img":"./ASSETS/remeraBlancaHombre.jpg",
+    "page": ""
+    },
+
+
+    {"name":"SPUM HOMBRE BLANCA",
+    "subtitle":"",
+    "info":"",
+    "id": 4,
+    "price": 1150,
+    "img": "./ASSETS/remeraSpum.jpg",
+    "page": ""
+     },
+
+
+      {"name":"SPUM HOMBRE GRIS",
+      "subtitle": "",
+      "info":"",
+      "id": 5,
+      "price": 1180,
+      "img": "./ASSETS/remeraSpumGris.jpg",
+      "page": ""
+      },
+
+
+      {"name":"CANGURO GRIS UNISEX",
+      "subtitle": "",
+      "info":"",
+      "id": 6,
+      "price": 5500,
+      "img":"./ASSETS/buzoCanguro.jpg",
+      "page": ""
+      },
+
+
+      {"name":"CANGURO GRIS NIÑO/A",
+      "subtitle":"",
+      "info":"",
+      "id": 7,
+      "price": 5000,
+      "img":"./ASSETS/buzoCanguroInfantil.jpg",
+      "page": ""
+      },
+
+      {"name":"CANGURO RANGLAN",
+      "subtitle":"",
+      "info":"",
+      "id": 8,
+      "price": 5800,
+      "img":"./ASSETS/buzoRanglan.jpg",
+      "page": ""
+      },
+
+      {"name":"BUZO CANGURO NEGRO",
+      "subtitle":"",
+      "info":"",
+      "id": 9,
+      "price": 6500,
+      "img":"./ASSETS/buzoCanguroNegro.jpg",
+      "page": ""
+      },
+
+      {"name":"CAMPERA ADULTOS",
+      "subtitle":"",
+      "info":"",
+      "id": 10,
+      "price": 5300,
+      "img":"./ASSETS/camperaAdulto.jpg",
+      "page": ""
+      }
+]
